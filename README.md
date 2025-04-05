@@ -1,5 +1,5 @@
 # lexiconic
-# Mini Compiler - Syntax Checker & Process Simulator
+# Mini Compiler - Syntax Checker & Corrector
 
 This is a modular compiler project designed to analyze input code, detect syntax errors, and suggest corrections.
 
